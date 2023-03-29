@@ -26,6 +26,7 @@ dogs.pickle contains 3602 low-res (64*64) images of dogs.
 - timm: https://github.com/huggingface/pytorch-image-models
 - lion: https://github.com/google/automl/tree/master/lion (included)
 - eca: https://github.com/BangguWu/ECANet (included)
+- a GPU (8GB of VRAM recommended)
 
 
 
