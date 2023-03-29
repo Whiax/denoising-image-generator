@@ -16,6 +16,10 @@ Results after 17500 training steps (~2h on middle-end GPU):
 - Grid:  
 ![17511_end_result_10pass](https://user-images.githubusercontent.com/12411288/228590451-94f4ee19-3c79-438a-b686-bb1aa8ff321d.png)
 
+# Dataset
+
+dogs.pickle contains 3602 low-res (64*64) images of dogs.
+
 # Requirements
 - lpips: https://github.com/richzhang/PerceptualSimilarity 
 - timm: https://github.com/huggingface/pytorch-image-models
