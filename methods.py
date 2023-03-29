@@ -1,5 +1,6 @@
 # =============================================================================
 # coded by https://github.com/Whiax/
+# - citation is required if you reuse large parts of this code
 # =============================================================================
 from torchvision.transforms import Normalize
 from torch.utils.data import Dataset
