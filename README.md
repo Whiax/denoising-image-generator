@@ -8,7 +8,10 @@ The goal of this repo isn't to be competitive with other image generation algori
 
 Results after 17500 training steps (~2h on middle-end GPU):  
 - Video:  
-https://user-images.githubusercontent.com/12411288/228590068-5b4f1c60-f5bf-4a42-b237-8da288428184.mp4
+
+  https://user-images.githubusercontent.com/12411288/228590866-873a5a5d-befc-4f0f-b5b4-31e3386e7451.mp4
+
+
 
 - Grid:  
 ![17511_end_result_10pass](https://user-images.githubusercontent.com/12411288/228590451-94f4ee19-3c79-438a-b686-bb1aa8ff321d.png)
