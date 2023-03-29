@@ -7,13 +7,13 @@ The goal of this repo isn't to be competitive with other image generation algori
 # Results
 
 Results after 17500 training steps (~2h on middle-end GPU):  
-- Video:  
+- Video (from step 0 to step 17500):  
 
   https://user-images.githubusercontent.com/12411288/228590866-873a5a5d-befc-4f0f-b5b4-31e3386e7451.mp4
 
 
 
-- Grid:  
+- Grid (step 17500):  
 ![17511_end_result_10pass](https://user-images.githubusercontent.com/12411288/228590451-94f4ee19-3c79-438a-b686-bb1aa8ff321d.png)
 
 # Dataset
