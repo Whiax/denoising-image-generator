@@ -1,4 +1,4 @@
-# Denoising to generate images 🐶
+# Denoising to generate dog faces 🐶
 Custom implementation of the denoising task to generate images. This repo is an experiment.  
 Modern (2020-2023) models used for image generation are based on the denoising task, I tried to re-implement this idea from scratch. 
 This repo may not follow the usual formalism for this task, it was coded based on what was the most intuitive to me.  
